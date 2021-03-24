@@ -18,6 +18,7 @@
 	    <relativePath/>
   </parent>
   <dependencies>
+  
         <!-- 实现web功能 -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
