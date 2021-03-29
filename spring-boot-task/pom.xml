@@ -60,7 +60,7 @@
   <build>
         <finalName>spring-boot-task</finalName>
 		<plugins>
-		    <!-- 打包项目 mvn clean package -->
+		    <!-- 打包项目 mvn clean package dev-->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
