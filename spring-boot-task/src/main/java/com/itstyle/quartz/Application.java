@@ -17,5 +17,6 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		logger.info("爪哇笔记定时任务项目启动");
+		logger.info("爪哇笔记定时任务项目启动");
 	}
 }
