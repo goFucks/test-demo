@@ -18,7 +18,10 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 
 		logger.info("爪哇笔记定时任务项目启动34455554");
+		logger.info("爪哇笔记定时任务项目启动34455555555555");
+
 		logger.info("爪哇笔记定时任务项目启动2");
+		logger.info("爪哇笔记定时任务项目启动3333");
 		logger.info("爪哇笔记定时任务项目启动3333");
 	}
 }
